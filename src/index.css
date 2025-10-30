@@ -1,0 +1,35 @@
+@import "tailwindcss";
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #272727;
+}
+.sea1{
+    background-image: url("./assets/24d6a7de20a912034a113548c5b7e6893f2bf7f5.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: 10%;
+}
+.sea2{
+    background-image: url("./assets/back.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    margin-bottom: 80px;
+}
+.sea3{
+    background-image: url("./assets/1920x1080.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    background-position: 10%;
+}
+.sea4{
+    background-image: url("./assets/f034533757684ac2891d486e858732413f22af98.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    background-position: 10%;
+}
